@@ -1,0 +1,1 @@
+// React homepage code placeholder
